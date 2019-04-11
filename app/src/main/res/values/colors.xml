@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#0b6ca7</color>
+    <color name="colorAccent">#0b6ca7</color>
+
+
+    <color name="colorGreenText">#FF3A9E55</color>
+    <color name="colorGrayText">#FFBDC7C9</color>
+    <color name="colorDarkGrayText">#FF636970</color>
+
+    <color name="colorGreenButtonBGPressed">#CC3A9E55</color>
+    <color name="colorGreenButtonBGChecked">#FF3A9E55</color>
+    <color name="colorGrayButtonBGUnchecked">#2C3A3E</color>
+
+    <color name="colorWhiteButtonBGPressed">#CCECEDEF</color>
+    <color name="colorWhiteButtonBGChecked">#FFECEDEF</color>
+
+    <!--    <color name="colorDarkBlueButtonBGPressed">#CC2043a1</color>
+        <color name="colorDarkBlueButtonBGChecked">#FF2043a1</color>-->
+    <color name="colorDarkBlueButtonBGPressed">#CC2A82B6</color>
+    <color name="colorDarkBlueButtonBGChecked">#FF2A82B6</color>
+
+    <color name="colorDarkGrayButtonBGPressed">#CC656B71</color>
+    <color name="colorDarkGrayButtonBGChecked">#FF656B71</color>
+
+    <color name="colorRedOrangeBGPressed">#CCEF534F</color>
+    <color name="colorRedOrangeBGChecked">#FFEF534F</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTransparent">#00000000</color>
+
+    <color name="colorBorderBlack">#22000000</color>
+    <color name="colorBorderWhite">#22FFFFFF</color>
+
+    <color name="colorGray">#BDC7C9</color>
+    <color name="colorSilver">#798F9C</color>
+    <color name="colorRed">#E74B3A</color>
+    <color name="colorDarkBlue">#226b96</color>
+    <color name="colorGreen">#3A9E55</color>
+
+    <!--<color name="colorBlue">#2043a1</color>-->
+    <color name="colorBlue">@color/colorDarkBlue</color>
+
+    <color name="colorRedOrange">#EF534F</color>
+    <color name="colorSapphirine">#369EDD</color>
+
+
+    <color name="red">#e23628</color>
+    <color name="gray">#414245</color>
+    <color name="silver">#b9b8b5</color>
+    <color name="orange">#ea7f15</color>
+
+
+    <color name="narfon">#8c314c</color>
+    <color name="bakcellfon">#8c2c2c</color>
+    <color name="azercellfon">#4c3581</color>
+    <color name="telfon">#299cef</color>
+    <color name="ishiqfon">#fcc82d</color>
+    <color name="qazfon">#192f6b</color>
+    <color name="sufon">#2793e1</color>
+    <color name="hamisifon">#3dffffff</color>
+
+
+    <color name="gradient_top">#0063ff</color>
+    <color name="gradient_bottom">#00d7ff</color>
+    <color name="text_gray">#cbc6f4</color>
+    <color name="text_blue">#6f9bff</color>
+    <color name="text_sapphirine">#0bbdff</color>
+    <color name="layout_backround">#0056d7</color>
+    <color name="view_backround">#004ecb</color>
+    <color name="blue_img_color">#027efc</color>
+
+</resources>

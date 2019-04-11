@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">Aset Credit</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="about_us_text">A.SET Kredit – FinTrend BOKT bazasında yaradılmış universal bir məhsuldur. Həmin məhsuldan istifadə etməklə siz partnyor elektronika və məişət texnikasının ticarət şəbəkələrində, mebel mağazalarında, avtomobillərin servis mərkəzlərinda istənilən məhsulu və ya xidməti Sizə maksimal sərfəli şərtlərlə kreditlə əldə edə bilərsiniz. Bu məhsulun əsas üstünlüyü mağazadan ayrılmadan kreditə mal və xidmətlərin alınmasıdır.Bu gün biz, Sizə istehlak krediti bazarında seçilən ilkin ödənişsiz müddəti 30 aya qədər olan rəqabət şərtləri ilə seçilən kredit təklif edirik.Siz tərəfdaşlarımız barədə ətraflı məlumatı PARTNYORLAR bölümündən əldə edə bilərsiz.</string>
+    <string name="about_us">Bizim haqqımızda</string>
+    <string name="choose_group">Qrupu seçin</string>
+    <string name="phone">Telefon</string>
+    <string name="other">Digər</string>
+    <string name="official_net_salary">Rəsmi xalis əmək haqqı</string>
+    <string name="your_credits">Ortam aylıq banklarda olan kredit ödənişləriniz</string>
+    <string name="calculate_loan_amount">Kredit məbləğini hesablamağ</string>
+    <string name="month">ay</string>
+    <string name="six_month">6 ay</string>
+    <string name="nine_month">9 ay</string>
+    <string name="twelve_month">12 ay</string>
+    <string name="fifteen_month">15 ay</string>
+    <string name="eighteen_month">18 ay</string>
+    <string name="twenty_one_month">21 ay</string>
+    <string name="twenty_four_month">24 ay</string>
+    <string name="twenty_seven_month">27 ay</string>
+    <string name="thirty_month">30 ay</string>
+    <string name="azn">AZN</string>
+    <string name="partners">Partnyerlar</string>
+    <string name="see_on_map">Xəritədə bax</string>
+    <string name="calculator">Kalkulyator</string>
+    <string name="mg1">Azərbaycan, Bakı, Azadlıq prospekti, 14</string>
+    <string name="mg2">Azərbaycan, Bakı, Azadlıq prospekti, 114</string>
+    <string name="mg3">Azərbaycan, Bakı, Məhəmməd Hadi küç., 27S</string>
+    <string name="mg4">Azərbaycan, Bakı, Fətəli Xan Xoyski küç., 118A</string>
+    <string name="mg5">Azərbaycan, Bakı, Azadlıq küç., 45</string>
+    <string name="electronics">Elektronika və məişət texnikası</string>
+    <string name="furniture">Hər növ mebel</string>
+    <string name="auto_services">Avtomobil üçün ehtiyyat hissələri və servis xidmətləri</string>
+    <string name="for_home">Ev əşyaları</string>
+    <string name="tours_tickets">İstirahət, turlar və biletlər</string>
+    <string name="clothing_others">Geyim, ayaqqabı və akssesuarlar</string>
+    <string name="fill_all_cells">Bütün xanalari doldurun</string>
+    <string name="cant_give_credit_for_this_parametrs">Qeyd etdiyiniz parametrlərə uyğun kredit verilə bilməz</string>
+    <string name="change_language">Dili dəyişmək</string>
+</resources>

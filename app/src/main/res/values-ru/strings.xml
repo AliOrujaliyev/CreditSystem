@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_us_text">A.SET Kredit – это универсальный продукт создан на базе BOKT FINtrend, с помощью которого Вы сможете купить товар и/или услугу в кредит, во всех торговых сетях партнерах электроники и бытовой техники, мебели, автозапчастей, автомобильных сервисных центрах с максимально выгодными для Вас условиями.  Основное преимущество данного продукта – это приобретение товара или услуги в кредит прямо в магазине.  На сегодняшний день мы предлагаем конкурентные условия работы на рынке потребительского кредитования со сроком кредитования до 30 месяцев без первого взноса.  Вы можете детально ознакомится со всеми нашими партнерами в разделе ПАРТНЕРЫ.</string>
+    <string name="about_us">O нас</string>
+    <string name="choose_group">Выберите группу</string>
+    <string name="phone">Телефон</string>
+    <string name="other">Другое</string>
+    <string name="official_net_salary">Официальная чистая зарплата</string>
+    <string name="your_credits">Средняя ежемесячная выплата кредитов в банках</string>
+    <string name="calculate_loan_amount">Рассчитать сумму кредита</string>
+    <string name="month">месяцев</string>
+    <string name="six_month">6 месяцев</string>
+    <string name="nine_month">9 месяцев</string>
+    <string name="twelve_month">12 месяцев</string>
+    <string name="fifteen_month">15 месяцев</string>
+    <string name="eighteen_month">18 месяцев</string>
+    <string name="twenty_one_month">21 месяцев</string>
+    <string name="twenty_four_month">24 месяцев</string>
+    <string name="twenty_seven_month">27 месяцев</string>
+    <string name="thirty_month">30 месяцев</string>
+    <string name="azn">AZN</string>
+    <string name="partners">Партнеры</string>
+    <string name="see_on_map">Посмотреть на карте</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="electronics">Электроника и бытовая техника</string>
+    <string name="furniture">Домашняя и кухонная мебель</string>
+    <string name="auto_services">Автозапчасти и сервисное обслуживание</string>
+    <string name="for_home">Домашняя утварь</string>
+    <string name="tours_tickets">Отдых, туры и билеты</string>
+    <string name="clothing_others">Одежда, обувь и аксессуары</string>
+    <string name="mg1">Азербайджан, г. Баку, пр. Азадлыг, 14</string>
+    <string name="mg2">Азербайджан, г. Баку, пр. Азадлыг, 114</string>
+    <string name="mg3">Азербайджан, г. Баку, ул. Мохаммеда Хади, 27C</string>
+    <string name="mg4">Азербайджан, г. Баку, ул. Фатали Хан Хойского, 118А</string>
+    <string name="mg5">Азербайджан, г. Баку, ул. Азадлыг, 45</string>
+    <string name="fill_all_cells">Заполните все поля</string>
+    <string name="cant_give_credit_for_this_parametrs">По указанным вами параметрам невозможно предоставить кредит</string>
+    <string name="change_language">Изменить язык</string>
+</resources>
